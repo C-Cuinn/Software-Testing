@@ -9,32 +9,59 @@ Prepared by: Ciaran Quinn G00361840
 Index
 
  1.0 INTRODUCTION.
+ 
  2.0 OBJECTIVES AND TASKS.
+ 
  2.1 Objectives.
+ 
  2.2 Tasks.
+ 
  3.0 Scope.
+ 
  4.0 Testing Strategy.
+ 
  4.1 Unit Testing.
+ 
  4.2 System and Integration Testing.
+ 
  4.3 Performance and Stress Testing.
+ 
  4.4 User Acceptance Testing.
+ 
  4.5 Batch Testing.
+ 
  4.6 Automated Regression Testing.
+ 
  4.7 Beta Testing.
+ 
  5.0 Hardware Requirements.
+ 
  6.0 Environment Requirements.
+ 
  6.1 Main Frame.
+ 
  6.2 Workstation.
+ 
  7.0 Test Schedule.
+ 
  8.0 Control Procedures.
+ 
  9.0 Features to Be Tested.
+ 
  10.0 Features Not to Be Tested.
+ 
  11.0 Resources/Roles & Responsibilities.
+ 
  12.0 Schedules.
+ 
  13.0 Significantly Impacted Departments.
+ 
  14.0 Dependencies.
+ 
  15.0 Risks/Assumptions.
+ 
  16.0 Tools.
+ 
  17.0 Approvals.
 
 1.0 INTRODUCTION.
