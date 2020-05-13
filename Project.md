@@ -29,14 +29,14 @@ Index
 12.0 – Tools <br>
 
  1.0 INTRODUCTION :<br>
-  This document will describe and track the testing of the game "Pixel Wizard" as layed out in the brief distributed to us by the games 
-  creater and developer for the 2020 Software testing project. It will document every aspect of the testing process in necessary depth.   <br>
+  This document will describe and track the testing of the game "Pixel Wizard" as laid out in the brief distributed to us by the games 
+  creator and developer for the 2020 Software testing project. It will document every aspect of the testing process in necessary depth.   <br>
   The Game being tested is a 2D Castlevania-esque side scrolled with exploration elements in line with those of : The Elder Scrolls :    Skyrim, Salt and Sanctuary, Dark Souls.<br>
-  The Main gameplay loop requires the player to advance through a selection of progressively harder levels defeated a boss at the end of   each.The levels will contain pickups to act as modifier to mix up the gameplay experience as well as health pickups etc.<br>
-  Player traversal will be compatible with both mouse and keyboard as well as mobile devices.For keyboard and mouse the movement will be   controlled with AD with a jump assigned spacebar.On mobile there will be virtual representations of each of these keys.<br>
+  The Main gameplay loop requires the player to advance through a selection of progressively harder levels defeated a boss at the end of  each. The levels will contain pickups to act as modifier to mix up the gameplay experience as well as health pickups etc.<br>
+  Player traversal will be compatible with both mouse and keyboard as well as mobile devices. For keyboard and mouse the movement will be   controlled with AD with a jump assigned spacebar. On mobile there will be virtual representations of each of these keys.<br>
   Combat will be controlled with M1 or R on pc with mobile being controlled by a virtual representation of these keys.<br>
   On start up the player is greeted with the main menu which will have the core functions of the game such as "Play" ,"Load Game"(Within   which will be an additional option to load a specific save(Transitioning the player to the selected level) or delete a specific         save), Options where the player can modify the volume/gamma/etc ,and Quit to exit the application. <br>
-  When the player selects the "Play" option it shall transition the player to the first level of the game.When in game the pause menu     will contain a "Save" option to save the players current location and status(Health etc) which can then be loaded from the main menu     along with a "Quit" button to return to the main menu. <br>
+  When the player selects the "Play" option it shall transition the player to the first level of the game. When in game the pause menu     will contain a "Save" option to save the players current location and status(Health etc) which can then be loaded from the main menu     along with a "Quit" button to return to the main menu. <br>
   
  2.0 OBJECTIVES AND TASKS :<br>
   The objective of this testing program is to ensure the game is of quality and meets all relevant standards in accordance to GSA   
@@ -53,18 +53,18 @@ Index
  I.SSI SIMPLE SYSTEM INTERFACE V1.1 <br>
  J.GSA THIRD PARTY GAME INTERFACE V1.0 <br>
  <br>
- The interpersonal comunications will be handled by microsoft teams .<br>
- Issue tracking, progress tracking and roles will be tracked on Github with a backup of this information publicly displayed on Trello.<br>
+ The interpersonal communications will be handled by Microsoft teams .<br>
+ Issue tracking, progress tracking and roles will be tracked on GitHub with a backup of this information publicly displayed on Trello.<br>
  2.1 Objectives :<br>
  The objectives of this testing phase will be to ensure adherence to the GSA standards and guidelines. It will focus on all testable
- aspects of the game such as design, performance, accessibilty and user friendlyness.
- The testing will primarily revolve around quality assurance and the pursuit of high quality thoroughly tested,and  fully functional end   product. 
+ aspects of the game such as design, performance, accessibility and user friendliness.
+ The testing will primarily revolve around quality assurance and the pursuit of high quality thoroughly tested, and  fully functional end   product. 
  The Interfaces will be tested to assure that they conform to the standards layed out in the PUIS V1.1.
  The project will be divided up into tasks . Each task will be tackled by a dedicated team as to ensure focus on specific areas of     
  testing.
  
  2.2 Tasks :<br>
- Task 1 : Menu testing , usability , intuative design.<br>
+ Task 1 : Menu testing , usability , intuitive design.<br>
  Task 2 : Gameplay testing , Bug finding , Exploit detection.<br>
  Task 3 : Combat testing , pickup collection.<br>
  
@@ -78,7 +78,7 @@ Index
 Is a level of software testing where individual components of a program/project are tested. The purpose is to validate that each unit of the software performs as designed. Unit testing will be employed by all teams for all tasks as it the best  way to ensure the most issues are found.
 
  4.2 System and Integration Testing : <br>
-Is defined as a type of software testing carried out in an integrated hardware and software environment to verify the behavior of the complete system. It also verifies a software system's coexistence with others and tests the interface between modules of the software application.
+Is defined as a type of software testing carried out in an integrated hardware and software environment to verify the behaviour of the complete system. It also verifies a software system's coexistence with others and tests the interface between modules of the software application.
  
  4.3 Performance and Stress Testing : <br>
 Stress testing is a form of deliberately intense or thorough testing used to determine the stability of a given system. It involves testing beyond normal operational capacity, often to a breaking point, in order to observe the results.
@@ -96,18 +96,18 @@ Batch testing is performed by running the entire test set. All automated test sc
 A field test of the beta version of a product (such as software) especially by testers outside the company developing it that is conducted prior to commercial release
  
  5.0 Hardware Requirements : <br>
- The hardware requirments for this will be based off my expierence with similar games and the games listed in the brief of which i have
+ The hardware requirements for this will be based off my experience with similar games and the games listed in the brief of which I have
  had previous experience through either playing them myself or by in depth research conducted in pursuit of this information.
   ________________________________________________________________
 
- Minumim Specfications : <br><br>
+ Minimum Specifications : <br><br>
  OS : Windows : XP/Vista/7/8/10 ,Temple OS <br>
  Graphics : GTX 970 <br> 
  CPU : 2.2GHz Dual Core <br>
  Memory : 4GB RAM <br>
  Storage : 50GB free space<br><br>
  
- Reccomended Specifications :<br><br>
+ Recommended Specifications :<br><br>
  OS : Windows 10, Temple OS <br>
  Graphics : GTX 3080 TI super <br>
  CPU : 5.3GHz 10core 20t <br>
@@ -129,13 +129,13 @@ A field test of the beta version of a product (such as software) especially by t
  9.0 Features to Be Tested : <br>
  GUI : <br>
      All buttons should be tested to ensure that they do what they are supposed to 99.999% of the time.<br>
-     All sliders (Volume,Gamma,etc) should modify the relevent values in a proportial and intuative way.<br>
+     All sliders (Volume ,Gamma ,etc) should modify the relevant values in a proportional and intuitive way.<br>
      Menus should load quickly with little to no slowdown or latency.<br>
-     Menus should be responsive and clearly labeled.<br>
+     Menus should be responsive and clearly labelled.<br>
      Menu traversal/navigation.<br>
-     Secondary menus (Pause menus,Options menus).<br>
+     Secondary menus (Pause menus, Options menus).<br>
      
- GamePlay : <br>
+ Gameplay : <br>
      The map and relevant areas should be tested for exploits such as "Out-of-bounds" glitches.<br>
      Loading zones/transition zones should trigger when interacted with in an intuitive way.<br>
      Combat.<br>
@@ -155,15 +155,15 @@ A field test of the beta version of a product (such as software) especially by t
  14.0 Dependencies : <br>
  
  15.0 Risks/Assumptions : <br>
- There are severel risks to be considered at the outset of this project ."deadline"
+ There are several risks to be considered at the outset of this project ."deadline"
  
  16.0 Tools : <br>
  The main tools to be used for this testing project are :<br>
  
-Ranorex :<br> An all-in-one tool for test automation. Ranorex is easy for beginners with a codeless click-and-go interface, but powerful for automation experts with a full IDE for C# or VB.NET, and open APIs.Functional UI and end-to-end testing on desktop, web, and mobile.
-Cross-browser testing. SAP, ERP, Delphi and legacy applications.Run tests locally or remotely, in parallel or distribute on a Selenium Grid. Robust reporting. Ranorex integrates with leading solutions like Git, TFS, Jenkins, Bamboo, Bugzilla, SpecFlow, NeoLoad, TestRail and more for a complete testing toolchain.<br>
+Ranorex :<br> An all-in-one tool for test automation. Ranorex is easy for beginners with a codeless click-and-go interface, but powerful for automation experts with a full IDE for C# or VB.NET, and open APIs. Functional UI and end-to-end testing on desktop, web, and mobile.
+Cross-browser testing. SAP, ERP, Delphi and legacy applications. Run tests locally or remotely, in parallel or distribute on a Selenium Grid. Robust reporting. Ranorex integrates with leading solutions like Git, TFS, Jenkins, Bamboo, Bugzilla, SpecFlow, NeoLoad, TestRail and more for a complete testing toolchain.<br>
 
-TestCraft :<br> A codeless Selenium test automation platform. The revolutionary AI technology and unique visual modeling allows for faster test creation and execution while eliminating test maintenance overhead. Testers create fully automated test scenarios without coding. Customers find bugs faster, release more frequently, integrate with CI/CD and improve overall quality of their digital products.
+TestCraft :<br> A codeless Selenium test automation platform. The revolutionary AI technology and unique visual modelling allows for faster test creation and execution while eliminating test maintenance overhead. Testers create fully automated test scenarios without coding. Customers find bugs faster, release more frequently, integrate with CI/CD and improve overall quality of their digital products.
 No programming skills required. Leverage manual testers’ business knowledge and allow them to create automated test scenarios
 Substantially reduce maintenance costs. Scripts are automatically adjusted to change due to our AI mechanism.
 Selenium based. Quickly integrate and leverage modules developed by the community
