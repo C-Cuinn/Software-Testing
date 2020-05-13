@@ -85,6 +85,9 @@ Index
  
  Storage : 500GB free space
  
+ ________________________________________________________________
+
+ 
  6.0 Environment Requirements.
  
  6.1 Main Frame.
