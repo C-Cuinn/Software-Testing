@@ -29,46 +29,34 @@ Index
 12.0 – Tools <br>
 
 
- 1.0 INTRODUCTION.
+ 1.0 INTRODUCTION.<br>
   This document will describe and track the testing of the game "Pixel Wizard" as layed out in the brief distributed to us by the games 
-  creater and developer for the 2020 Software testing project. It will document every aspect of the testing process in necessary depth.
-  The Game being tested is a 2D Castlevania-esque side scrolled with exploration elements in line with those of
-  The Elder Scrolls : Skyrim,
-  Salt and Sanctuary,
-  Dark Souls.
-  The Main gameplay loop requires the player to advance through a selection of progressively harder levels defeated a boss at the end of   each.The levels will contain pickups to act as modifier to mix up the gameplay experience as well as health pickups etc.
+  creater and developer for the 2020 Software testing project. It will document every aspect of the testing process in necessary depth.   <br>
+  The Game being tested is a 2D Castlevania-esque side scrolled with exploration elements in line with those of : The Elder Scrolls :    Skyrim, Salt and Sanctuary, Dark Souls.<br>
+  The Main gameplay loop requires the player to advance through a selection of progressively harder levels defeated a boss at the end of   each.The levels will contain pickups to act as modifier to mix up the gameplay experience as well as health pickups etc.<br>
   
-  Player traversal will be compatible with both mouse and keyboard as well as mobile devices.For keyboard and mouse the movement will be   controlled with AD with a jump assigned spacebar.On mobile there will be virtual representations of each of these keys
+  Player traversal will be compatible with both mouse and keyboard as well as mobile devices.For keyboard and mouse the movement will be   controlled with AD with a jump assigned spacebar.On mobile there will be virtual representations of each of these keys.<br>
   
-  Combat will be controlled with M1 or R on pc with mobile being controlled by a virtual representation of these keys
+  Combat will be controlled with M1 or R on pc with mobile being controlled by a virtual representation of these keys.<br>
   
-  On start up the player is greeted with the main menu which will have the core functions of the game such as "Play" ,"Load Game"(Within   which will be an additional option to load a specific save(Transitioning the player to the selected level) or delete a specific         save), Options where the player can modify the volume/gamma/etc ,and Quit to exit the application.
-  When the player selects the "Play" option it shall transition the player to the first level of the game.When in game the pause menu     will contain a "Save" option to save the players current location and status(Health etc) which can then be loaded from the main menu     along with a "Quit" button to return to the main menu. 
+  On start up the player is greeted with the main menu which will have the core functions of the game such as "Play" ,"Load Game"(Within   which will be an additional option to load a specific save(Transitioning the player to the selected level) or delete a specific         save), Options where the player can modify the volume/gamma/etc ,and Quit to exit the application. <br>
+  When the player selects the "Play" option it shall transition the player to the first level of the game.When in game the pause menu     will contain a "Save" option to save the players current location and status(Health etc) which can then be loaded from the main menu     along with a "Quit" button to return to the main menu. <br>
   
   
  2.0 OBJECTIVES AND TASKS.
   The objective of this testing program is to ensure the game is of quality and meets all relevant standards in accordance to GSA   
-  (Gaming Standards Association) protocols and other relevant standards : 
+  (Gaming Standards Association) protocols and other relevant standards :<br>
  
- A.G2S MESSAGE PROTOCOL V3.1
- 
- B.S2S MESSAGE PROTOCOL V2.0
- 
- C.GDS NOTE ACCEPTOR COMMUNICATIONS PROTOCOL V1.4
-  
- D.PKG MANIFEST FILE FORMAT V1.1
- 
- E.GSA POINT-TO-POINT WEBSOCKET TRANSPORT SPECIFICATION V2.0
- 
- F.GDS PERIPHERAL MANIFEST FILE FORMAT V1.0
- 
- G.PLAYER USER INTERFACE STANDARD V1.1
-  
- H.GSAEGM MEDIA DISPLAY INTERFACE PROTOCOL V3.1
-  
- I.SSI SIMPLE SYSTEM INTERFACE V1.1
-  
- J.GSA THIRD PARTY GAME INTERFACE V1.0
+ A.G2S MESSAGE PROTOCOL V3.1 <br>
+ B.S2S MESSAGE PROTOCOL V2.0 <br>
+ C.GDS NOTE ACCEPTOR COMMUNICATIONS PROTOCOL V1.4 <br>
+ D.PKG MANIFEST FILE FORMAT V1.1 <br>
+ E.GSA POINT-TO-POINT WEBSOCKET TRANSPORT SPECIFICATION V2.0 <br>
+ F.GDS PERIPHERAL MANIFEST FILE FORMAT V1.0 <br>
+ G.PLAYER USER INTERFACE STANDARD V1.1 <br>
+ H.GSAEGM MEDIA DISPLAY INTERFACE PROTOCOL V3.1 <br>
+ I.SSI SIMPLE SYSTEM INTERFACE V1.1 <br>
+ J.GSA THIRD PARTY GAME INTERFACE V1.0 <br>
  
  The interpersonal comunications will be handled by microsoft teams .
  
