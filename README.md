@@ -1,16 +1,28 @@
 # Software-Testing
 Software Testing 
 
-Test Plan Template:
-
 Prepared by: Ciaran Quinn G00361840
 12/05/2020
 
 Index
 
  1.0 INTRODUCTION.
- 
+  This document will describe and track the testing of the game "Pixel Wizard" as layed out in the brief distributed to us by the games 
+  creater and developer for the 2020 Software testing project. It will document every aspect of the testing process in necessary depth.
+  
  2.0 OBJECTIVES AND TASKS.
+  The objective of this testing program is to ensure the game is of quality and meets all relevant standards in accordance to GSA   
+  (Gaming Standards Association) protocols and other relevant standards : 
+  A.G2S MESSAGE PROTOCOL V3.1
+  B.S2S MESSAGE PROTOCOL V2.0
+  C.GDS NOTE ACCEPTOR COMMUNICATIONS PROTOCOL V1.4
+  D.PKG MANIFEST FILE FORMAT V1.1
+  E.GSA POINT-TO-POINT WEBSOCKET TRANSPORT SPECIFICATION V2.0
+  F.GDS PERIPHERAL MANIFEST FILE FORMAT V1.0
+  G.PLAYER USER INTERFACE STANDARD V1.1
+  H.GSAEGM MEDIA DISPLAY INTERFACE PROTOCOL V3.1
+  I.SSI SIMPLE SYSTEM INTERFACE V1.1
+  GSA THIRD PARTY GAME INTERFACE V1.0
  
  2.1 Objectives.
  
@@ -71,11 +83,14 @@ A brief summary of the product being tested. Outline all the functions at a high
 2.0 OBJECTIVES AND TASKS.
 
 2.1 Objectives
+
 Describe the objectives supported by the Master Test Plan, eg., defining tasks and
 responsibilities, vehicle for communication, document to be used as a service level
 agreement, etc.
+
 2.2 Tasks
 List all tasks identified by this Test Plan, i.e., testing, post-testing, problem reporting, etc.
+
 3.0 SCOPE
 
 General
