@@ -6,47 +6,27 @@ Prepared by: Ciaran Quinn G00361840
 
 Index
 
-1.0 - INTRODUCTION 
-
-2.0 - OBJECTIVES AND TASKS 
-
-2.1 - Objectives 
-
-2.2 - Tasks
-
-3.0 - SCOPE 
-
-4.0 - Testing Strategy 
-
-4.1 - Unit Testing 
-
-4.2 - System and Integration Testing 
-
-4.3 - Performance and Stress Testing 
-
-4.4 - User Acceptance Testing 
-
-4.5 - Batch Testing 
-
-4.6 - Automated Regression Testing 
-
-4.7 - Beta Testing 
-
-5.0 - Test Schedule 
-
-6.0 - Control Procedures 
-
-7.0 - Features to Be Tested
-
-8.0 - Features Not to Be Tested 
-
-9.0 - Resources/Roles & Responsibilities 
-
-10.0 - Schedules 
-
-11.0 - Risks/Assumptions
-
-12.0 – Tools
+1.0 - INTRODUCTION <br>
+2.0 - OBJECTIVES AND TASKS <br>
+2.1 - Objectives <br>
+2.2 - Tasks <br>
+3.0 - SCOPE <br>
+4.0 - Testing Strategy <br>
+4.1 - Unit Testing <br>
+4.2 - System and Integration Testing <br>
+4.3 - Performance and Stress Testing <br>
+4.4 - User Acceptance Testing <br>
+4.5 - Batch Testing <br>
+4.6 - Automated Regression Testing <br>
+4.7 - Beta Testing <br>
+5.0 - Test Schedule <br>
+6.0 - Control Procedures <br>
+7.0 - Features to Be Tested <br>
+8.0 - Features Not to Be Tested <br>
+9.0 - Resources/Roles & Responsibilities <br>
+10.0 - Schedules <br>
+11.0 - Risks/Assumptions <br>
+12.0 – Tools <br>
 
 
  1.0 INTRODUCTION.
