@@ -62,7 +62,8 @@ Index
  5.0 Hardware Requirements.
  The hardware requirments for this will be based off my expierence with similar games and the games listed in the brief of which i have
  had previous experience through either playing them myself or by in depth research conducted in pursuit of this information.
- 
+  ________________________________________________________________
+
  Minumim Specfications : 
  
  OS : Windows : XP/Vista/7/8/10 ,Temple OS
