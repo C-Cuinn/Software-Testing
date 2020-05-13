@@ -36,7 +36,8 @@ Index
  ________________________________________________________________
  2.1 Objectives.
  The objectives of this testing phase will be to ensure adherence to the GSA standards and guidelines. It will focus on all testable
- aspects of the game such as design, performance, accessibilty and user friendlyness. 
+ aspects of the game such as design, performance, accessibilty and user friendlyness.
+ The testing will primarily revolve around quality assurance and the pursuit of high quality thoroughly tested,and  fully functional end product. 
  
  2.2 Tasks.
  
@@ -65,15 +66,23 @@ Index
  Minumim Specfications : 
  
  OS : Windows : XP/Vista/7/8/10 ,Temple OS
+ 
  Graphics : GTX 970
+ 
  CPU : 2.2GHz Dual Core
+ 
  Memory : 4GB RAM
+ 
  Storage : 50GB free space
  
  Reccomended Specifications
+ 
  OS : Windows 10, Temple OS
+ 
  Graphics : GTX 3080 TI super
+ 
  CPU : 5.3GHz 10core 20t 
+ 
  Storage : 500GB free space
  
  6.0 Environment Requirements.
