@@ -49,9 +49,6 @@ Index
 12.0 – Tools
 
 
-
-
-
  1.0 INTRODUCTION.
   This document will describe and track the testing of the game "Pixel Wizard" as layed out in the brief distributed to us by the games 
   creater and developer for the 2020 Software testing project. It will document every aspect of the testing process in necessary depth.
@@ -59,6 +56,15 @@ Index
   The Elder Scrolls : Skyrim,
   Salt and Sanctuary,
   Dark Souls.
+  The Main gameplay loop requires the player to advance through a selection of progressively harder levels defeated a boss at the end of   each.The levels will contain pickups to act as modifier to mix up the gameplay experience as well as health pickups etc.
+  
+  Player traversal will be compatible with both mouse and keyboard as well as mobile devices.For keyboard and mouse the movement will be   controlled with AD with a jump assigned spacebar.On mobile there will be virtual representations of each of these keys
+  
+  Combat will be controlled with M1 or R on pc with mobile being controlled by a virtual representation of these keys
+  
+  On start up the player is greeted with the main menu which will have the core functions of the game such as "Play" ,"Load Game"(Within   which will be an additional option to load a specific save(Transitioning the player to the selected level) or delete a specific         save), Options where the player can modify the volume/gamma/etc ,and Quit to exit the application.
+  When the player selects the "Play" option it shall transition the player to the first level of the game.When in game the pause menu     will contain a "Save" option to save the players current location and status(Health etc) which can then be loaded from the main menu     along with a "Quit" button to return to the main menu. 
+  
   
  2.0 OBJECTIVES AND TASKS.
   The objective of this testing program is to ensure the game is of quality and meets all relevant standards in accordance to GSA   
