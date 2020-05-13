@@ -28,20 +28,15 @@ Index
 11.0 - Risks/Assumptions <br>
 12.0 – Tools <br>
 
-
  1.0 INTRODUCTION.<br>
   This document will describe and track the testing of the game "Pixel Wizard" as layed out in the brief distributed to us by the games 
   creater and developer for the 2020 Software testing project. It will document every aspect of the testing process in necessary depth.   <br>
   The Game being tested is a 2D Castlevania-esque side scrolled with exploration elements in line with those of : The Elder Scrolls :    Skyrim, Salt and Sanctuary, Dark Souls.<br>
   The Main gameplay loop requires the player to advance through a selection of progressively harder levels defeated a boss at the end of   each.The levels will contain pickups to act as modifier to mix up the gameplay experience as well as health pickups etc.<br>
-  
   Player traversal will be compatible with both mouse and keyboard as well as mobile devices.For keyboard and mouse the movement will be   controlled with AD with a jump assigned spacebar.On mobile there will be virtual representations of each of these keys.<br>
-  
   Combat will be controlled with M1 or R on pc with mobile being controlled by a virtual representation of these keys.<br>
-  
   On start up the player is greeted with the main menu which will have the core functions of the game such as "Play" ,"Load Game"(Within   which will be an additional option to load a specific save(Transitioning the player to the selected level) or delete a specific         save), Options where the player can modify the volume/gamma/etc ,and Quit to exit the application. <br>
   When the player selects the "Play" option it shall transition the player to the first level of the game.When in game the pause menu     will contain a "Save" option to save the players current location and status(Health etc) which can then be loaded from the main menu     along with a "Quit" button to return to the main menu. <br>
-  
   
  2.0 OBJECTIVES AND TASKS.<br>
   The objective of this testing program is to ensure the game is of quality and meets all relevant standards in accordance to GSA   
@@ -59,8 +54,7 @@ Index
  J.GSA THIRD PARTY GAME INTERFACE V1.0 <br>
  <br>
  The interpersonal comunications will be handled by microsoft teams .<br>
- Issue tracking, progress tracking and roles will be tracked on Github with a backup of this information publicly displayed on Trello.
- ________________________________________________________________
+ Issue tracking, progress tracking and roles will be tracked on Github with a backup of this information publicly displayed on Trello.<br>
  2.1 Objectives.<br>
  The objectives of this testing phase will be to ensure adherence to the GSA standards and guidelines. It will focus on all testable
  aspects of the game such as design, performance, accessibilty and user friendlyness.
@@ -106,8 +100,8 @@ A field test of the beta version of a product (such as software) especially by t
  had previous experience through either playing them myself or by in depth research conducted in pursuit of this information.
   ________________________________________________________________
 
- Minumim Specfications : 
- 
+ Minumim Specfications :<br> 
+ <br>
  OS : Windows : XP/Vista/7/8/10 ,Temple OS <br>
  Graphics : GTX 970 <br> 
  CPU : 2.2GHz Dual Core <br>
@@ -134,7 +128,7 @@ A field test of the beta version of a product (such as software) especially by t
  
  8.0 Control Procedures.
  
- 9.0 Features to Be Tested.
+ 9.0 Features to Be Tested.<br>
  GUI : <br>
      All buttons should be tested to ensure that they do what they are supposed to 99.999% of the time.<br>
      All sliders (Volume,Gamma,etc) should modify the relevent values in a proportial and intuative way.<br>
@@ -163,25 +157,20 @@ A field test of the beta version of a product (such as software) especially by t
  14.0 Dependencies.<br>
  
  15.0 Risks/Assumptions.<br>
-                     There are severel risks to be considered at the outset of this project .
+ There are severel risks to be considered at the outset of this project ."deadline"
  
- 16.0 Tools.
- The main tools to be used for this testing project are :
+ 16.0 Tools.<br>
+ The main tools to be used for this testing project are :<br>
  
-Ranorex : An all-in-one tool for test automation. Ranorex is easy for beginners with a codeless click-and-go interface, but powerful for automation experts with a full IDE for C# or VB.NET, and open APIs.
-Functional UI and end-to-end testing on desktop, web, and mobile.
-Cross-browser testing.
-SAP, ERP, Delphi and legacy applications.
-Run tests locally or remotely, in parallel or distribute on a Selenium Grid.
-Robust reporting.
-Ranorex integrates with leading solutions like Git, TFS, Jenkins, Bamboo, Bugzilla, SpecFlow, NeoLoad, TestRail and more for a complete testing toolchain.
+Ranorex :<br> An all-in-one tool for test automation. Ranorex is easy for beginners with a codeless click-and-go interface, but powerful for automation experts with a full IDE for C# or VB.NET, and open APIs.Functional UI and end-to-end testing on desktop, web, and mobile.
+Cross-browser testing. SAP, ERP, Delphi and legacy applications.Run tests locally or remotely, in parallel or distribute on a Selenium Grid. Robust reporting. Ranorex integrates with leading solutions like Git, TFS, Jenkins, Bamboo, Bugzilla, SpecFlow, NeoLoad, TestRail and more for a complete testing toolchain.<br>
 
-TestCraft : A codeless Selenium test automation platform. The revolutionary AI technology and unique visual modeling allows for faster test creation and execution while eliminating test maintenance overhead. Testers create fully automated test scenarios without coding. Customers find bugs faster, release more frequently, integrate with CI/CD and improve overall quality of their digital products.
+TestCraft :<br> A codeless Selenium test automation platform. The revolutionary AI technology and unique visual modeling allows for faster test creation and execution while eliminating test maintenance overhead. Testers create fully automated test scenarios without coding. Customers find bugs faster, release more frequently, integrate with CI/CD and improve overall quality of their digital products.
 No programming skills required. Leverage manual testers’ business knowledge and allow them to create automated test scenarios
 Substantially reduce maintenance costs. Scripts are automatically adjusted to change due to our AI mechanism.
 Selenium based. Quickly integrate and leverage modules developed by the community
-Provides immediate time to value. Easy to master.
+Provides immediate time to value. Easy to master.<br>
 
-Bugzilla : A leading Bug Tracking tool widely used by many organizations for quite some time now. It is very simple to use, web-based interface. It is completely open sourced and is free to use.
+Bugzilla : <br>A leading Bug Tracking tool widely used by many organizations for quite some time now. It is very simple to use, web-based interface. It is completely open sourced and is free to use.<br>
  
  17.0 Approvals.
