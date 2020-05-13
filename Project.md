@@ -6,11 +6,11 @@ Prepared by: Ciaran Quinn G00361840
 
 Index
 
-1.0 - **INTRODUCTION** <br>
-2.0 - **OBJECTIVES AND TASKS** <br>
+1.0 - **Introduction** <br>
+2.0 - **Objectives And Tasks** <br>
 2.1 - **Objectives** <br>
 2.2 - **Tasks** <br>
-3.0 - **SCOPE** <br>
+3.0 - **Scope** <br>
 4.0 - **Testing Strategy** <br>
 4.1 - **Unit Testing** <br>
 4.2 - **System and Integration Testing** <br>
@@ -28,7 +28,7 @@ Index
 11.0 - **Risks/Assumptions** <br>
 12.0 – **Tools** <br>
 
- 1.0 **INTRODUCTION** :<br>
+ 1.0 **Introduction** :<br>
   This document will describe and track the testing of the game "**Pixel Wizard**" as laid out in the brief distributed to us by the games 
   creator and developer for the 2020 Software testing project. It will document every aspect of the testing process in necessary depth.   <br>
   The Game being tested is a **2D** Castlevania-esque side scrolled with exploration elements in line with those of : The Elder Scrolls :    Skyrim, Salt and Sanctuary, Dark Souls.<br>
@@ -125,7 +125,7 @@ A field test of the beta version of a product (such as software) especially by t
  7.0 **Test Schedule** : <br>
  
  8.0 **Control Procedures** : <br>
- 
+ ________________________________________________________________
  9.0 **Features to Be Tested** : <br>
  **GUI** : <br>
      All buttons should be tested to ensure that they do what they are supposed to 99.999% of the time.<br>
@@ -141,7 +141,7 @@ A field test of the beta version of a product (such as software) especially by t
      Combat.<br>
      Player movement and traversal.<br>
      Difficulty scaling.<br>
-     
+________________________________________________________________
  
  10.0 **Features Not to Be Tested **: <br>
  All aspects of this game should be tested as all aspects are integral to the players experience with the product.
