@@ -43,7 +43,7 @@ Index
   When the player selects the "Play" option it shall transition the player to the first level of the game.When in game the pause menu     will contain a "Save" option to save the players current location and status(Health etc) which can then be loaded from the main menu     along with a "Quit" button to return to the main menu. <br>
   
   
- 2.0 OBJECTIVES AND TASKS.
+ 2.0 OBJECTIVES AND TASKS.<br>
   The objective of this testing program is to ensure the game is of quality and meets all relevant standards in accordance to GSA   
   (Gaming Standards Association) protocols and other relevant standards :<br>
  
@@ -57,12 +57,11 @@ Index
  H.GSAEGM MEDIA DISPLAY INTERFACE PROTOCOL V3.1 <br>
  I.SSI SIMPLE SYSTEM INTERFACE V1.1 <br>
  J.GSA THIRD PARTY GAME INTERFACE V1.0 <br>
- 
- The interpersonal comunications will be handled by microsoft teams .
- 
+ <br>
+ The interpersonal comunications will be handled by microsoft teams .<br>
  Issue tracking, progress tracking and roles will be tracked on Github with a backup of this information publicly displayed on Trello.
  ________________________________________________________________
- 2.1 Objectives.
+ 2.1 Objectives.<br>
  The objectives of this testing phase will be to ensure adherence to the GSA standards and guidelines. It will focus on all testable
  aspects of the game such as design, performance, accessibilty and user friendlyness.
  The testing will primarily revolve around quality assurance and the pursuit of high quality thoroughly tested,and  fully functional end   product. 
@@ -70,41 +69,39 @@ Index
  The project will be divided up into tasks . Each task will be tackled by a dedicated team as to ensure focus on specific areas of     
  testing.
  
- 2.2 Tasks.
- Task 1 : Menu testing , usability , intuative design.
+ 2.2 Tasks.<br>
+ Task 1 : Menu testing , usability , intuative design.<br>
+ Task 2 : Gameplay testing , Bug finding , Exploit detection.<br>
+ Task 3 : Combat testing , pickup collection.<br>
  
- Task 2 : Gameplay testing , Bug finding , Exploit detection.
- 
- Task 3 : Combat testing , pickup collection.
- 
- 3.0 Scope.
+ 3.0 Scope.<br>
  vgbuhinjom
  
- 4.0 Testing Strategy.
+ 4.0 Testing Strategy.<br>
  All Groups will have a specific assigned task which they will work on simultaneously while communicating with other task teams to share information on issues which may effect other aspects being tested by other teams.
  
- 4.1 Unit Testing :
-                   Is a level of software testing where individual components of a program/project are tested. The purpose is to validate that each unit of the software performs as designed. Unit testing will be employed by all teams for all tasks as it the best  way to ensure the most issues are found.
+ 4.1 Unit Testing :<br>
+Is a level of software testing where individual components of a program/project are tested. The purpose is to validate that each unit of the software performs as designed. Unit testing will be employed by all teams for all tasks as it the best  way to ensure the most issues are found.
 
- 4.2 System and Integration Testing:
-                                   Is defined as a type of software testing carried out in an integrated hardware and software environment to verify the behavior of the complete system. It also verifies a software system's coexistence with others and tests the interface between modules of the software application.
+ 4.2 System and Integration Testing:<br>
+Is defined as a type of software testing carried out in an integrated hardware and software environment to verify the behavior of the complete system. It also verifies a software system's coexistence with others and tests the interface between modules of the software application.
  
- 4.3 Performance and Stress Testing : 
-                                      Stress testing is a form of deliberately intense or thorough testing used to determine the stability of a given system. It involves testing beyond normal operational capacity, often to a breaking point, in order to observe the results.
+ 4.3 Performance and Stress Testing : <br>
+Stress testing is a form of deliberately intense or thorough testing used to determine the stability of a given system. It involves testing beyond normal operational capacity, often to a breaking point, in order to observe the results.
  
- 4.4 User Acceptance Testing : 
-                              Acceptance testing is also known as user acceptance testing (UAT), end-user testing, operational acceptance testing (OAT), acceptance-test-driven development (ATTD) or field (acceptance) testing. Acceptance criteria are the criteria that a system or component must satisfy in order to be accepted by a user.
+ 4.4 User Acceptance Testing : <br>
+Acceptance testing is also known as user acceptance testing (UAT), end-user testing, operational acceptance testing (OAT), acceptance-test-driven development (ATTD) or field (acceptance) testing. Acceptance criteria are the criteria that a system or component must satisfy in order to be accepted by a user.
  
- 4.5 Batch Testing :
-                    Batch testing is performed by running the entire test set. All automated test scripts are executed one at a time by keeping the other scripts in waiting mode. 
+ 4.5 Batch Testing :<br>
+Batch testing is performed by running the entire test set. All automated test scripts are executed one at a time by keeping the other scripts in waiting mode. 
  
- 4.6 Automated Regression Testing : 
-                                   Regression testing is re-running functional and non-functional tests to ensure that previously developed and tested software still performs after a change.
+ 4.6 Automated Regression Testing : <br>
+ Regression testing is re-running functional and non-functional tests to ensure that previously developed and tested software still performs after a change.
  
- 4.7 Beta Testing : 
-                    A field test of the beta version of a product (such as software) especially by testers outside the company developing it that is conducted prior to commercial release
+ 4.7 Beta Testing : <br>
+A field test of the beta version of a product (such as software) especially by testers outside the company developing it that is conducted prior to commercial release
  
- 5.0 Hardware Requirements.
+ 5.0 Hardware Requirements.<br>
  The hardware requirments for this will be based off my expierence with similar games and the games listed in the brief of which i have
  had previous experience through either playing them myself or by in depth research conducted in pursuit of this information.
   ________________________________________________________________
@@ -138,35 +135,35 @@ Index
  8.0 Control Procedures.
  
  9.0 Features to Be Tested.
- GUI : 
-     All buttons should be tested to ensure that they do what they are supposed to 99.999% of the time.
-     All sliders (Volume,Gamma,etc) should modify the relevent values in a proportial and intuative way.
-     Menus should load quickly with little to no slowdown or latency.
-     Menus should be responsive and clearly labeled.
-     Menu traversal/navigation.
-     Secondary menus (Pause menus,Options menus)
+ GUI : <br>
+     All buttons should be tested to ensure that they do what they are supposed to 99.999% of the time.<br>
+     All sliders (Volume,Gamma,etc) should modify the relevent values in a proportial and intuative way.<br>
+     Menus should load quickly with little to no slowdown or latency.<br>
+     Menus should be responsive and clearly labeled.<br>
+     Menu traversal/navigation.<br>
+     Secondary menus (Pause menus,Options menus).<br>
      
- GamePlay : 
-     The map and relevant areas should be tested for exploits such as "Out-of-bounds" glitches .
-     Loading zones/transition zones should trigger when interacted with in an intuitive way.
-     Combat.
-     Player movement and traversal.
-     Difficulty scaling.
+ GamePlay : <br>
+     The map and relevant areas should be tested for exploits such as "Out-of-bounds" glitches.<br>
+     Loading zones/transition zones should trigger when interacted with in an intuitive way.<br>
+     Combat.<br>
+     Player movement and traversal.<br>
+     Difficulty scaling.<br>
      
  
- 10.0 Features Not to Be Tested.
+ 10.0 Features Not to Be Tested.<br>
  All aspects of this game should be tested as all aspects are integral to the players experience with the product.
  
- 11.0 Resources/Roles & Responsibilities.
+ 11.0 Resources/Roles & Responsibilities.<br>
  
- 12.0 Schedules.
+ 12.0 Schedules.<br>
  
- 13.0 Significantly Impacted Departments.
+ 13.0 Significantly Impacted Departments.<br>
  
- 14.0 Dependencies.
+ 14.0 Dependencies.<br>
  
- 15.0 Risks/Assumptions.
-                     There are severel risks to be considered at the outset of this project 
+ 15.0 Risks/Assumptions.<br>
+                     There are severel risks to be considered at the outset of this project .
  
  16.0 Tools.
  The main tools to be used for this testing project are :
