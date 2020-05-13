@@ -8,7 +8,7 @@ Index
 
 1.0 - **INTRODUCTION** <br>
 2.0 - **OBJECTIVES AND TASKS** <br>
-2.1 - **Objectives* *<br>
+2.1 - **Objectives** <br>
 2.2 - **Tasks** <br>
 3.0 - **SCOPE** <br>
 4.0 - **Testing Strategy** <br>
@@ -148,27 +148,27 @@ A field test of the beta version of a product (such as software) especially by t
  
  11.0 **Resources/Roles & Responsibilities** : <br>
  
- 12.0 **Schedules **: <br>
+ 12.0 **Schedules**: <br>
  
  13.0 **Significantly Impacted Departments** : <br>
  
  14.0 **Dependencies** : <br>
  
- 15.0 Risks/Assumptions : <br>
+ 15.0 **Risks/Assumptions** : <br>
  There are several risks to be considered at the outset of this project ."deadline"
  
- 16.0 Tools : <br>
+ 16.0 **Tools** : <br>
  The main tools to be used for this testing project are :<br>
  
-Ranorex :<br> An all-in-one tool for test automation. Ranorex is easy for beginners with a codeless click-and-go interface, but powerful for automation experts with a full IDE for C# or VB.NET, and open APIs. Functional UI and end-to-end testing on desktop, web, and mobile.
+**Ranorex** :<br> An all-in-one tool for test automation. Ranorex is easy for beginners with a codeless click-and-go interface, but powerful for automation experts with a full IDE for C# or VB.NET, and open APIs. Functional UI and end-to-end testing on desktop, web, and mobile.
 Cross-browser testing. SAP, ERP, Delphi and legacy applications. Run tests locally or remotely, in parallel or distribute on a Selenium Grid. Robust reporting. Ranorex integrates with leading solutions like Git, TFS, Jenkins, Bamboo, Bugzilla, SpecFlow, NeoLoad, TestRail and more for a complete testing toolchain.<br>
 
-TestCraft :<br> A codeless Selenium test automation platform. The revolutionary AI technology and unique visual modelling allows for faster test creation and execution while eliminating test maintenance overhead. Testers create fully automated test scenarios without coding. Customers find bugs faster, release more frequently, integrate with CI/CD and improve overall quality of their digital products.
+**TestCraft** :<br> A codeless Selenium test automation platform. The revolutionary AI technology and unique visual modelling allows for faster test creation and execution while eliminating test maintenance overhead. Testers create fully automated test scenarios without coding. Customers find bugs faster, release more frequently, integrate with CI/CD and improve overall quality of their digital products.
 No programming skills required. Leverage manual testers’ business knowledge and allow them to create automated test scenarios
 Substantially reduce maintenance costs. Scripts are automatically adjusted to change due to our AI mechanism.
 Selenium based. Quickly integrate and leverage modules developed by the community
 Provides immediate time to value. Easy to master.<br>
 
-Bugzilla : <br>A leading Bug Tracking tool widely used by many organizations for quite some time now. It is very simple to use, web-based interface. It is completely open sourced and is free to use.<br>
+**Bugzilla** : <br>A leading Bug Tracking tool widely used by many organizations for quite some time now. It is very simple to use, web-based interface. It is completely open sourced and is free to use.<br>
  
- 17.0 Approvals : <br>
+ 17.0 **Approvals** : <br>
