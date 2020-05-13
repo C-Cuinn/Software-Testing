@@ -99,26 +99,42 @@ Index
  aspects of the game such as design, performance, accessibilty and user friendlyness.
  The testing will primarily revolve around quality assurance and the pursuit of high quality thoroughly tested,and  fully functional end   product. 
  The Interfaces will be tested to assure that they conform to the standards layed out in the PUIS V1.1.
+ The project will be divided up into tasks . Each task will be tackled by a dedicated team as to ensure focus on specific areas of     
+ testing.
  
  2.2 Tasks.
+ Task 1 : Menu testing , usability , intuative design.
+ 
+ Task 2 : Gameplay testing , Bug finding , Exploit detection.
+ 
+ Task 3 : Combat testing , pickup collection.
  
  3.0 Scope.
+ vgbuhinjom
  
  4.0 Testing Strategy.
+ All Groups will have a specific assigned task which they will work on simultaneously while communicating with other task teams to share information on issues which may effect other aspects being tested by other teams.
  
- 4.1 Unit Testing.
+ 4.1 Unit Testing :
+                   Is a level of software testing where individual components of a program/project are tested. The purpose is to validate that each unit of the software performs as designed. Unit testing will be employed by all teams for all tasks as it the best  way to ensure the most issues are found.
+
+ 4.2 System and Integration Testing:
+                                   Is defined as a type of software testing carried out in an integrated hardware and software environment to verify the behavior of the complete system. It also verifies a software system's coexistence with others and tests the interface between modules of the software application.
  
- 4.2 System and Integration Testing.
+ 4.3 Performance and Stress Testing : 
+                                      Stress testing is a form of deliberately intense or thorough testing used to determine the stability of a given system. It involves testing beyond normal operational capacity, often to a breaking point, in order to observe the results.
  
- 4.3 Performance and Stress Testing.
+ 4.4 User Acceptance Testing : 
+                              Acceptance testing is also known as user acceptance testing (UAT), end-user testing, operational acceptance testing (OAT), acceptance-test-driven development (ATTD) or field (acceptance) testing. Acceptance criteria are the criteria that a system or component must satisfy in order to be accepted by a user.
  
- 4.4 User Acceptance Testing.
+ 4.5 Batch Testing :
+                    Batch testing is performed by running the entire test set. All automated test scripts are executed one at a time by keeping the other scripts in waiting mode. 
  
- 4.5 Batch Testing.
+ 4.6 Automated Regression Testing : 
+                                   Regression testing is re-running functional and non-functional tests to ensure that previously developed and tested software still performs after a change.
  
- 4.6 Automated Regression Testing.
- 
- 4.7 Beta Testing.
+ 4.7 Beta Testing : 
+                    A field test of the beta version of a product (such as software) especially by testers outside the company developing it that is conducted prior to commercial release
  
  5.0 Hardware Requirements.
  The hardware requirments for this will be based off my expierence with similar games and the games listed in the brief of which i have
