@@ -32,9 +32,11 @@ Index
   
  I.SSI SIMPLE SYSTEM INTERFACE V1.1
   
- GSA THIRD PARTY GAME INTERFACE V1.0
- 
+ J.GSA THIRD PARTY GAME INTERFACE V1.0
+ ________________________________________________________________
  2.1 Objectives.
+ The objectives of this testing phase will be to ensure adherence to the GSA standards and guidelines. It will focus on all testable
+ aspects of the game such as design, performance, accessibilty and user friendlyness. 
  
  2.2 Tasks.
  
@@ -57,6 +59,22 @@ Index
  4.7 Beta Testing.
  
  5.0 Hardware Requirements.
+ The hardware requirments for this will be based off my expierence with similar games and the games listed in the brief of which i have
+ had previous experience through either playing them myself or by in depth research conducted in pursuit of this information.
+ 
+ Minumim Specfications : 
+ 
+ OS : Windows : XP/Vista/7/8/10 ,Temple OS
+ Graphics : GTX 970
+ CPU : 2.2GHz Dual Core
+ Memory : 4GB RAM
+ Storage : 50GB free space
+ 
+ Reccomended Specifications
+ OS : Windows 10, Temple OS
+ Graphics : GTX 3080 TI super
+ CPU : 5.3GHz 10core 20t 
+ Storage : 500GB free space
  
  6.0 Environment Requirements.
  
