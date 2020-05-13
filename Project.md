@@ -143,25 +143,18 @@ Index
 
  Minumim Specfications : 
  
- OS : Windows : XP/Vista/7/8/10 ,Temple OS
- 
- Graphics : GTX 970
- 
- CPU : 2.2GHz Dual Core
- 
- Memory : 4GB RAM
- 
- Storage : 50GB free space
+ OS : Windows : XP/Vista/7/8/10 ,Temple OS <br>
+ Graphics : GTX 970 <br> 
+ CPU : 2.2GHz Dual Core <br>
+ Memory : 4GB RAM <br>
+ Storage : 50GB free space<br>
  
  Reccomended Specifications
  
- OS : Windows 10, Temple OS
- 
- Graphics : GTX 3080 TI super
- 
- CPU : 5.3GHz 10core 20t 
- 
- Storage : 500GB free space
+ OS : Windows 10, Temple OS <br>
+ Graphics : GTX 3080 TI super <br>
+ CPU : 5.3GHz 10core 20t <br>
+ Storage : 500GB free space<br>
  
  ________________________________________________________________
 
@@ -205,6 +198,7 @@ Index
  14.0 Dependencies.
  
  15.0 Risks/Assumptions.
+                     There are severel risks to be considered at the outset of this project 
  
  16.0 Tools.
  The main tools to be used for this testing project are :
