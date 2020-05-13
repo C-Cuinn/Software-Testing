@@ -38,9 +38,9 @@ Index
   
  J.GSA THIRD PARTY GAME INTERFACE V1.0
  
- -The interpersonal comunications will be handled by microsoft teams .
+ The interpersonal comunications will be handled by microsoft teams .
  
- -issue tracking, progress tracking and roles will be tracked on Github with a backup of this information publicly displayed on Trello.
+ Issue tracking, progress tracking and roles will be tracked on Github with a backup of this information publicly displayed on Trello.
  ________________________________________________________________
  2.1 Objectives.
  The objectives of this testing phase will be to ensure adherence to the GSA standards and guidelines. It will focus on all testable
@@ -109,6 +109,16 @@ Index
  8.0 Control Procedures.
  
  9.0 Features to Be Tested.
+ GUI : 
+     All buttons should be tested to ensure that they do what they are supposed to 99.999% of the time.
+     All sliders (Volume,Gamma,etc) should modify the relevent values in a proportial and intuative way.
+     Menus should load quickly with little to no slowdown or latency.
+     Menus should be responsive and clearly labeled.
+     
+ GamePlay : 
+     The map and relevant areas should be tested for exploits such as "Out-of-bounds" glitches .
+     Loading zones/transition zones should trigger when interacted with in an intuitive way.
+     
  
  10.0 Features Not to Be Tested.
  
@@ -123,6 +133,23 @@ Index
  15.0 Risks/Assumptions.
  
  16.0 Tools.
+ The main tools to be used for this testing project are :
+ 
+Ranorex : An all-in-one tool for test automation. Ranorex is easy for beginners with a codeless click-and-go interface, but powerful for automation experts with a full IDE for C# or VB.NET, and open APIs.
+Functional UI and end-to-end testing on desktop, web, and mobile.
+Cross-browser testing.
+SAP, ERP, Delphi and legacy applications.
+Run tests locally or remotely, in parallel or distribute on a Selenium Grid.
+Robust reporting.
+Ranorex integrates with leading solutions like Git, TFS, Jenkins, Bamboo, Bugzilla, SpecFlow, NeoLoad, TestRail and more for a complete testing toolchain.
+
+TestCraft : A codeless Selenium test automation platform. The revolutionary AI technology and unique visual modeling allows for faster test creation and execution while eliminating test maintenance overhead. Testers create fully automated test scenarios without coding. Customers find bugs faster, release more frequently, integrate with CI/CD and improve overall quality of their digital products.
+No programming skills required. Leverage manual testers’ business knowledge and allow them to create automated test scenarios
+Substantially reduce maintenance costs. Scripts are automatically adjusted to change due to our AI mechanism.
+Selenium based. Quickly integrate and leverage modules developed by the community
+Provides immediate time to value. Easy to master.
+
+Bugzilla : A leading Bug Tracking tool widely used by many organizations for quite some time now. It is very simple to use, web-based interface. It is completely open sourced and is free to use.
  
  17.0 Approvals.
  
