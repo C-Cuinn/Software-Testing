@@ -28,7 +28,7 @@ Index
 11.0 - Risks/Assumptions <br>
 12.0 – Tools <br>
 
- 1.0 INTRODUCTION.<br>
+ 1.0 INTRODUCTION :<br>
   This document will describe and track the testing of the game "Pixel Wizard" as layed out in the brief distributed to us by the games 
   creater and developer for the 2020 Software testing project. It will document every aspect of the testing process in necessary depth.   <br>
   The Game being tested is a 2D Castlevania-esque side scrolled with exploration elements in line with those of : The Elder Scrolls :    Skyrim, Salt and Sanctuary, Dark Souls.<br>
@@ -38,7 +38,7 @@ Index
   On start up the player is greeted with the main menu which will have the core functions of the game such as "Play" ,"Load Game"(Within   which will be an additional option to load a specific save(Transitioning the player to the selected level) or delete a specific         save), Options where the player can modify the volume/gamma/etc ,and Quit to exit the application. <br>
   When the player selects the "Play" option it shall transition the player to the first level of the game.When in game the pause menu     will contain a "Save" option to save the players current location and status(Health etc) which can then be loaded from the main menu     along with a "Quit" button to return to the main menu. <br>
   
- 2.0 OBJECTIVES AND TASKS.<br>
+ 2.0 OBJECTIVES AND TASKS :<br>
   The objective of this testing program is to ensure the game is of quality and meets all relevant standards in accordance to GSA   
   (Gaming Standards Association) protocols and other relevant standards :<br>
  
@@ -55,7 +55,7 @@ Index
  <br>
  The interpersonal comunications will be handled by microsoft teams .<br>
  Issue tracking, progress tracking and roles will be tracked on Github with a backup of this information publicly displayed on Trello.<br>
- 2.1 Objectives.<br>
+ 2.1 Objectives :<br>
  The objectives of this testing phase will be to ensure adherence to the GSA standards and guidelines. It will focus on all testable
  aspects of the game such as design, performance, accessibilty and user friendlyness.
  The testing will primarily revolve around quality assurance and the pursuit of high quality thoroughly tested,and  fully functional end   product. 
@@ -63,21 +63,21 @@ Index
  The project will be divided up into tasks . Each task will be tackled by a dedicated team as to ensure focus on specific areas of     
  testing.
  
- 2.2 Tasks.<br>
+ 2.2 Tasks :<br>
  Task 1 : Menu testing , usability , intuative design.<br>
  Task 2 : Gameplay testing , Bug finding , Exploit detection.<br>
  Task 3 : Combat testing , pickup collection.<br>
  
- 3.0 Scope.<br>
+ 3.0 Scope :<br>
  vgbuhinjom
  
- 4.0 Testing Strategy.<br>
+ 4.0 Testing Strategy : <br>
  All Groups will have a specific assigned task which they will work on simultaneously while communicating with other task teams to share information on issues which may effect other aspects being tested by other teams.
  
- 4.1 Unit Testing :<br>
+ 4.1 Unit Testing : <br>
 Is a level of software testing where individual components of a program/project are tested. The purpose is to validate that each unit of the software performs as designed. Unit testing will be employed by all teams for all tasks as it the best  way to ensure the most issues are found.
 
- 4.2 System and Integration Testing:<br>
+ 4.2 System and Integration Testing : <br>
 Is defined as a type of software testing carried out in an integrated hardware and software environment to verify the behavior of the complete system. It also verifies a software system's coexistence with others and tests the interface between modules of the software application.
  
  4.3 Performance and Stress Testing : <br>
@@ -86,7 +86,7 @@ Stress testing is a form of deliberately intense or thorough testing used to det
  4.4 User Acceptance Testing : <br>
 Acceptance testing is also known as user acceptance testing (UAT), end-user testing, operational acceptance testing (OAT), acceptance-test-driven development (ATTD) or field (acceptance) testing. Acceptance criteria are the criteria that a system or component must satisfy in order to be accepted by a user.
  
- 4.5 Batch Testing :<br>
+ 4.5 Batch Testing : <br>
 Batch testing is performed by running the entire test set. All automated test scripts are executed one at a time by keeping the other scripts in waiting mode. 
  
  4.6 Automated Regression Testing : <br>
@@ -95,21 +95,19 @@ Batch testing is performed by running the entire test set. All automated test sc
  4.7 Beta Testing : <br>
 A field test of the beta version of a product (such as software) especially by testers outside the company developing it that is conducted prior to commercial release
  
- 5.0 Hardware Requirements.<br>
+ 5.0 Hardware Requirements : <br>
  The hardware requirments for this will be based off my expierence with similar games and the games listed in the brief of which i have
  had previous experience through either playing them myself or by in depth research conducted in pursuit of this information.
   ________________________________________________________________
 
- Minumim Specfications :<br> 
- <br>
+ Minumim Specfications : <br><br>
  OS : Windows : XP/Vista/7/8/10 ,Temple OS <br>
  Graphics : GTX 970 <br> 
  CPU : 2.2GHz Dual Core <br>
  Memory : 4GB RAM <br>
- Storage : 50GB free space<br>
+ Storage : 50GB free space<br><br>
  
- Reccomended Specifications
- 
+ Reccomended Specifications :<br><br>
  OS : Windows 10, Temple OS <br>
  Graphics : GTX 3080 TI super <br>
  CPU : 5.3GHz 10core 20t <br>
@@ -118,17 +116,17 @@ A field test of the beta version of a product (such as software) especially by t
  ________________________________________________________________
 
  
- 6.0 Environment Requirements.
+ 6.0 Environment Requirements : <br>
  
- 6.1 Main Frame.
+ 6.1 Main Frame : <br>
  
- 6.2 Workstation.
+ 6.2 Workstation : <br>
  
- 7.0 Test Schedule.
+ 7.0 Test Schedule : <br>
  
- 8.0 Control Procedures.
+ 8.0 Control Procedures : <br>
  
- 9.0 Features to Be Tested.<br>
+ 9.0 Features to Be Tested : <br>
  GUI : <br>
      All buttons should be tested to ensure that they do what they are supposed to 99.999% of the time.<br>
      All sliders (Volume,Gamma,etc) should modify the relevent values in a proportial and intuative way.<br>
@@ -145,21 +143,21 @@ A field test of the beta version of a product (such as software) especially by t
      Difficulty scaling.<br>
      
  
- 10.0 Features Not to Be Tested.<br>
+ 10.0 Features Not to Be Tested : <br>
  All aspects of this game should be tested as all aspects are integral to the players experience with the product.
  
- 11.0 Resources/Roles & Responsibilities.<br>
+ 11.0 Resources/Roles & Responsibilities : <br>
  
- 12.0 Schedules.<br>
+ 12.0 Schedules : <br>
  
- 13.0 Significantly Impacted Departments.<br>
+ 13.0 Significantly Impacted Departments : <br>
  
- 14.0 Dependencies.<br>
+ 14.0 Dependencies : <br>
  
- 15.0 Risks/Assumptions.<br>
+ 15.0 Risks/Assumptions : <br>
  There are severel risks to be considered at the outset of this project ."deadline"
  
- 16.0 Tools.<br>
+ 16.0 Tools : <br>
  The main tools to be used for this testing project are :<br>
  
 Ranorex :<br> An all-in-one tool for test automation. Ranorex is easy for beginners with a codeless click-and-go interface, but powerful for automation experts with a full IDE for C# or VB.NET, and open APIs.Functional UI and end-to-end testing on desktop, web, and mobile.
@@ -173,4 +171,4 @@ Provides immediate time to value. Easy to master.<br>
 
 Bugzilla : <br>A leading Bug Tracking tool widely used by many organizations for quite some time now. It is very simple to use, web-based interface. It is completely open sourced and is free to use.<br>
  
- 17.0 Approvals.
+ 17.0 Approvals : <br>
