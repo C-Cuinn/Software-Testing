@@ -39,6 +39,7 @@ Index
  J.GSA THIRD PARTY GAME INTERFACE V1.0
  
  -The interpersonal comunications will be handled by microsoft teams .
+ 
  -issue tracking, progress tracking and roles will be tracked on Github with a backup of this information publicly displayed on Trello.
  ________________________________________________________________
  2.1 Objectives.
