@@ -1,6 +1,4 @@
-# Software-Testing
-Software Testing 
-
+## Software-Testing
 Prepared by: Ciaran Quinn G00361840
 12/05/2020
 
