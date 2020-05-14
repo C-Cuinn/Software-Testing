@@ -67,8 +67,8 @@ Index
  Task 3 : Combat testing , pickup collection.<br>
  
  3.0 **Scope** :<br>
- ~~vgbuhinjom~~
- 
+With this plan we will test all aspects of the game with a focus on the topics layed out in the **tasks** section. <br>
+
  4.0 **Testing Strategy**: <br>
  All Groups will have a specific assigned task which they will work on simultaneously while communicating with other task teams to share information on issues which may effect other aspects being tested by other teams.
  
@@ -112,19 +112,11 @@ A field test of the beta version of a product (such as software) especially by t
  **Storage** : 500GB free space<br>
  
  ________________________________________________________________
-
+ 6.0 **Test Schedule** : <br>
  
- 6.0 **Environment Requirements** : <br>
- 
- 6.1 **Main Frame** : <br>
- 
- 6.2 **Workstation** : <br>
- 
- 7.0 **Test Schedule** : <br>
- 
- 8.0 **Control Procedures** : <br>
+ 7.0 **Control Procedures** : <br>
  ________________________________________________________________
- 9.0 **Features to Be Tested** : <br>
+ 8.0 **Features to Be Tested** : <br>
  **GUI** : <br>
      **All** buttons should be tested to ensure that they do what they are supposed to **99.999%** of the time.<br>
      All sliders (Volume ,Gamma ,etc) should modify the relevant values in a **proportional** and **intuitive** way.<br>
@@ -141,21 +133,20 @@ A field test of the beta version of a product (such as software) especially by t
      Difficulty scaling.<br>
 ________________________________________________________________
  
- 10.0 **Features Not to Be Tested **: <br>
- All aspects of this game should be tested as all aspects are integral to the players experience with the product.
+ 9.0 **Features Not to Be Tested **: <br>
+ All aspects of this game should be tested as all aspects are integral to the players experience with the product.<br>
  
- 11.0 **Resources/Roles & Responsibilities** : <br>
+ 10.0 **Resources/Roles & Responsibilities** : <br>
+ The roles for this project are decided by the task to which you are assigned by the project lead.<br>
+
+ 11.0 **Schedules**: <br>
+  ----
+ 12.0 **Dependencies** : <br>
+  ----
+ 13.0 **Risks/Assumptions** : <br>
+ There are several risks to be considered at the outset of this project .Primarly adhering to deadlines as the that is entirely dependant on the bugs/ issues found and their severity
  
- 12.0 **Schedules**: <br>
- 
- 13.0 **Significantly Impacted Departments** : <br>
- 
- 14.0 **Dependencies** : <br>
- 
- 15.0 **Risks/Assumptions** : <br>
- There are several risks to be considered at the outset of this project ."deadline"
- 
- 16.0 **Tools** : <br>
+ 14.0 **Tools** : <br>
  The main tools to be used for this testing project are :<br>
  
 **Ranorex** :<br> An all-in-one tool for test automation. Ranorex is easy for beginners with a codeless click-and-go interface, but powerful for automation experts with a full IDE for C# or VB.NET, and open APIs. Functional UI and end-to-end testing on desktop, web, and mobile.
@@ -168,5 +159,3 @@ Selenium based. Quickly integrate and leverage modules developed by the communit
 Provides immediate time to value. Easy to master.<br>
 
 **Bugzilla** : <br>A leading Bug Tracking tool widely used by many organizations for quite some time now. It is very simple to use, web-based interface. It is completely open sourced and is free to use.<br>
- 
- 17.0 **Approvals** : <br>
