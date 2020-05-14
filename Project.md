@@ -140,9 +140,9 @@ ________________________________________________________________
  The roles for this project are decided by the task to which you are assigned by the project lead.<br>
 
  11.0 **Schedules**: <br>
-  ----
+  
  12.0 **Dependencies** : <br>
-  ----
+  
  13.0 **Risks/Assumptions** : <br>
  There are several risks to be considered at the outset of this project .Primarly adhering to deadlines as the that is entirely dependant on the bugs/ issues found and their severity
  
